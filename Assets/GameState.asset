@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8c8faf9eb5b87f4d9fa26af28990e39, type: 3}
+  m_Name: GameState
+  m_EditorClassIdentifier: 
+  deck: {fileID: 11400000, guid: 96582d75e0cb7be4da44b58600e23465, type: 2}
+  hand: {fileID: 11400000, guid: 16de724edc8826f4dbb2e2f92f11c8bf, type: 2}
+  discard: {fileID: 11400000, guid: 7a8dbef10af4605488c52707d8ecee70, type: 2}
+  actionQueue: {fileID: 11400000, guid: 63cecd49dcc016947876a0ab2dfb82c7, type: 2}
